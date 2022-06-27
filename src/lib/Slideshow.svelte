@@ -22,7 +22,7 @@
 
 <style lang="scss">
     .slideshow {
-        @apply relative w-full overflow-x-hidden h-40 flex items-center justify-start my-8 bg-gray-900;
+        @apply relative w-full overflow-x-hidden h-40 flex items-center justify-start bg-gray-900;
         .slideshow-shadow {
             @apply absolute z-10 top-0 w-12 h-full;
         }
